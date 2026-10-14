@@ -4,4 +4,4 @@
 :HL["/comunicaciones-generales/api/v1/comunicaciones/cubo.json","fetch",{"crossOrigin":"anonymous"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"requerimientos","h":96,"c":"$Q2"}]]
-0:{"b":"xExF8DiTNOGwAPGBIaTHg","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"aXr7UfxbNvrztdUhUlgR4","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
