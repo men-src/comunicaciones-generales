@@ -1,6 +1,6 @@
-:HL["/comunicaciones-generales/_next/static/chunks/0xp4hthp7cgay.css","style"]
+:HL["/comunicaciones-generales/_next/static/chunks/1hs3rxafwo7qt.css","style"]
 :HL["/comunicaciones-generales/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/comunicaciones-generales/api/v1/dimensiones.json","fetch",{"crossOrigin":"anonymous"}]
 :HL["/comunicaciones-generales/api/v1/comunicaciones/cubo.json","fetch",{"crossOrigin":"anonymous"}]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"IwUlOM689f0UVD7RveiDN","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"DlZgYb1xDJ4GIcht1N5AH","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
