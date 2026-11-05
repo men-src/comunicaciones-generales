@@ -4,4 +4,4 @@
 :HL["/comunicaciones-generales/api/v1/comunicaciones/cubo.json","fetch",{"crossOrigin":"anonymous"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"chat","h":64,"c":"$Q2"}]]
-0:{"b":"O_1T2LHVi_6M0gCNfArc7","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"77LSjkmrX7I_TT-dOvxOs","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
