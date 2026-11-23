@@ -4,4 +4,4 @@
 :HL["/comunicaciones-generales/api/v1/comunicaciones/cubo.json","fetch",{"crossOrigin":"anonymous"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"extemporaneas","h":64,"c":"$Q2"}]]
-0:{"b":"IcPKg93juDdTHkFd2RzlA","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"_fif0JtdVAkDo7jxw8P7C","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
